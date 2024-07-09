@@ -1,0 +1,50 @@
+.links {
+  margin-top: 80px;
+  font-size: 16px;
+}
+.mini-cont {
+  color: #394e6a;
+  margin-top: 24px;
+  display: flex;
+  gap: 64px;
+}
+.text__block {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 512px;
+  height: 588px;
+}
+.name-details {
+  color: #394e6a;
+}
+.name-details::first-letter {
+  text-transform: uppercase;
+}
+.company-details {
+  color: #c7c9d1;
+  font-size: 20px;
+}
+.price-details {
+  font-size: 20px;
+}
+.descrpition-details {
+  font-size: 16px;
+  line-height: 30px;
+}
+.colors input {
+  width: 24px;
+  height: 24px;
+}
+.btn-details {
+  width: 115px;
+  height: 48px;
+  background-color: #463aa1;
+  border-radius: 10px;
+  border: none;
+  color: white;
+}
+.green {
+}
+.blue {
+}
